@@ -1,0 +1,25 @@
+header {
+  background-color: #bdb76b;
+  text-align: center;
+}
+
+h2 {
+  background-color: #b22222;
+  color: #1e90ff;
+  text-align: center;
+}
+
+img {
+  width: 700px;
+  position: relative;
+  top: 130px;
+}
+
+h3 {
+  text-align: center;
+  background-color: #7fffd4;
+  color: #ff7f50;
+  position: absolute;
+  bottom: 0;
+  right: 300px;
+}
